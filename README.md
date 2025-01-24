@@ -11,6 +11,10 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 * 🧠  I'm learning frameworks and tools for building generative models, including those that leverage large language models (LLMs) for creative applications.
 * 🤝  I'm open to collaborating on Data science and machine learning applications.Open-source contributions that promote learning and community engagement
 
+
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+
 ### Skills
 
 
