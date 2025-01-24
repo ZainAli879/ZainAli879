@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
-
-Hi, [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Zain Ali!
-================================================================================================================================
-
+<h1>Hi,I'm Zain Ali!</h1>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 I'm a Computer Science student and data scientist with a strong passion for technology and continuous learning. I enjoy exploring the intersection of data analysis, machine learning, and software development to solve real-world problems.
 
 * 🌍  I'm based in Pakistan
@@ -13,14 +8,16 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 
 
 <h2> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
+<div>
+  
+</div>
+<div align="center">
 <a href= "https://www.github.com/ZainAli879" target="_blank"><img alt="Github" src="https://img.shields.io/github/followers/ZainAli879?label=Follow&style=social?style=flat&logo=github&logoColor=white"></a>
 <a href= "https://www.instagram.com/zainali_79" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@zainali_79-red?style=flat&logo=instagram&logoColor=red"></a>
 <a href="https://www.linkedin.com/in/zainali152" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin&logoColor=blue"></a>
 <a href="https://www.youtube.com/in/Zainali-345" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Zainali345-red?style=flat&logo=Youtube&logoColor=red"></a>
 <a href="mailto:zainali.offical152"><img alt="Email" src="https://img.shields.io/badge/Email-zainali.offical152-blue?style=flat&logo=gmail"></a>
-</p>
+</div>
 
 
 <h2 align="left" style="color: #4A90E2;">Languages&Tools</h2>
