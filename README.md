@@ -33,7 +33,6 @@ I'm a Computer Science student and data scientist with a strong passion for tech
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" border-radius="90"  alt="JavaScript logo" title="JavaScript"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" title="TypeScript" />
 </div>
 
 
