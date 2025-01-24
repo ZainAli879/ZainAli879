@@ -28,10 +28,11 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ZainAli879" style="text-decoration: none;">
-    <div style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ZainAli879&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zain Ali's GitHub stats" style="width: 100%; height: auto;">
+    <div style="border-radius: 20px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3); overflow: hidden; background-color: #2c3e50;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZainAli879&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50&hide_border=true&show_icons=true" alt="Zain Ali's GitHub stats" style="width: 100%; height: auto;">
     </div>
 </a>
+
 
 
 <a href="http://www.github.com/ZainAli879"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainAli879&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
