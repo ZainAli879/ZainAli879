@@ -24,7 +24,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 
 <h2 align="left" style="color: #4A90E2;">Languages&Tools</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" border-radius="90" alt="C" title="C" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++" />
@@ -35,7 +35,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 </div>
 
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" title="HTML5"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" title="CSS3"/>
@@ -58,7 +58,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' height='50' alt='Firebase logo' title='Firebase'/>
 </div>
 
-<div align='center'>
+<div align='left'>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg' height='50' alt='TensorFlow logo' title='TensorFlow'/>
     <img width='12'/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg' height='50' alt='PyTorch logo' title='PyTorch'/>
@@ -70,7 +70,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
     <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' height='50' alt='Scikit-learn logo' title='Scikit-learn'/>
 </div>
 
-<div align='center'>
+<div align='left'>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height='50' alt='VS Code logo' title='VS Code'/>
     <img width='12'/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg' height= '50' alt= 'Visual Studio logo' title= 'Visual Studio'/>
