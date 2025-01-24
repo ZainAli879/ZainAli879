@@ -113,21 +113,25 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 </div>
 
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥  My GitHub Contributions :</h2>
 
+<h3>GitHub Contribution Streak</h3>
 <div align="center">
 <a href="http://www.github.com/ZainAli879"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainAli879&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
+<h3>GitHub Profile Summary</h3>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZainAli879&theme=dark&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&v=1"alt="GitHub Profile Summary"/>
 </div>
 
+<h3>GitHub Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ZainAli879&bg_color=1c1917&text_color=03fc90&title_color=03fc90">
 </p>
 
-
+<h3>Languages I Code With</h3>
 <div align="center">
 <a href="https://github.com/ZainAli879" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAli879&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
+
