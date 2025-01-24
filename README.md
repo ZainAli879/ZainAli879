@@ -96,7 +96,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZainAli879&theme=dark&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&v=1" height="220" width="600" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZainAli879&theme=dark&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&v=1"alt="GitHub Profile Summary"/>
 </div>
 
 <p align="center">
