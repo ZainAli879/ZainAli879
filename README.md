@@ -1,5 +1,6 @@
 <h1>Hi,I'm Zain Ali!</h1>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<div></div>
 I'm a Computer Science student and data scientist with a strong passion for technology and continuous learning. I enjoy exploring the intersection of data analysis, machine learning, and software development to solve real-world problems.
 
 * 🌍  I'm based in Pakistan
