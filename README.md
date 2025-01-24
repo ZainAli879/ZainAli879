@@ -12,8 +12,6 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 * 🤝  I'm open to collaborating on Data science and machine learning applications.Open-source contributions that promote learning and community engagement
 
 
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 ### Skills
 
@@ -31,11 +29,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ZainAli879" style="text-decoration: none;">
-    <div style="border-radius: 20px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3); overflow: hidden; background-color: #2c3e50;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ZainAli879&show_icons=true&theme=radical&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50&hide_border=true&show_icons=true" alt="Zain Ali's GitHub stats" style="width: 100%; height: auto;">
-    </div>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 
 
