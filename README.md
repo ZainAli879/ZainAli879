@@ -29,7 +29,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 
 <a href="http://www.github.com/ZainAli879" style="text-decoration: none;">
     <div style="border-radius: 20px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3); overflow: hidden; background-color: #2c3e50;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ZainAli879&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50&hide_border=true&show_icons=true" alt="Zain Ali's GitHub stats" style="width: 100%; height: auto;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZainAli879&show_icons=true&theme=radical&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2c3e50&hide_border=true&show_icons=true" alt="Zain Ali's GitHub stats" style="width: 100%; height: auto;">
     </div>
 </a>
 
