@@ -29,7 +29,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+<img src="https://github-readme-stats.vercel.app/api?username=ZainAli879&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 
 
