@@ -7,11 +7,11 @@
 <img  src="assests/borderseperator.gif">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-I'm a Computer Science student and data scientist with a strong passion for technology and continuous learning. I enjoy exploring the intersection of data analysis, machine learning, and software development to solve real-world problems.
+I'm a Computer Science student and an Ai Engineer with a strong passion for technology and continuous learning. I enjoy exploring the intersection of data analysis, machine learning, and software development to solve real-world problems.
 
 * 🌍  I'm based in Pakistan
 * 🧠  I'm learning frameworks and tools for building generative models, including those that leverage large language models (LLMs) for creative applications.
-* 🤝  I'm open to collaborating on Data science and machine learning applications.Open-source contributions that promote learning and community engagement
+* 🤝  I'm open to collaborating on Ai and machine learning applications.Open-source contributions that promote learning and community engagement
 
 
 <h2> 🤝🏻 Connect with Me </h3>
