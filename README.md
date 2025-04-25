@@ -21,7 +21,7 @@ I'm a Computer Science student and data scientist with a strong passion for tech
 <a href= "https://www.instagram.com/zainali_79" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@zainali_79-red?style=flat&logo=instagram&logoColor=red"></a>
 <a href="https://www.linkedin.com/in/zainali152" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@zainali152-blue?style=flat&logo=linkedin&logoColor=blue"></a>
 <a href="https://www.youtube.com/in/Zainali-345" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Zainali345-red?style=flat&logo=Youtube&logoColor=red"></a>
-<a href="mailto:zainali.offical152"><img alt="Email" src="https://img.shields.io/badge/Email-zainali.offical152-blue?style=flat&logo=gmail"></a>
+<a href="mailto:zainali.offical152"><img alt="Email" src="https://img.shields.io/badge/Email-zainali.offical789-blue?style=flat&logo=gmail"></a>
 </div>
 
 <h3 align="left">Coding Languages</h3>
