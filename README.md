@@ -3,7 +3,9 @@
   <br />
 </div>
 
-<h1 align="left">Hey 👋🏽, I'm Zain Ali </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=340&height=50&lines=Hey%2C+I'm+Zain+Ali" align="left" alt="Hey, I'm Zain Ali! animated typed out">
+<img  src="assests/borderseperator.gif">
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 I'm a Computer Science student and data scientist with a strong passion for technology and continuous learning. I enjoy exploring the intersection of data analysis, machine learning, and software development to solve real-world problems.
 
